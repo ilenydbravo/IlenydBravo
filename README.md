@@ -2,7 +2,7 @@
 
 # 👩‍💻 Ilenyd Bravo Guzmán
 
-🎓 Economist | 📊 Senior Research Analyst at Innovations for Poverty Action (IPA) | 💡 Evidence for Policy | 🇵🇪 Based in Peru
+🎓 Bachelor in Economics | 📊 Senior Research Analyst at Innovations for Poverty Action (IPA) | 💡 Evidence for Policy | 🇵🇪 Based in Peru
 
 ---
 
@@ -17,7 +17,7 @@ I believe that **more evidence leads to a better quality of life**. My goal is t
 ## 🛠️ Skills & Interests
 
 - **Research Design & Impact Evaluation**  
-  RCTs | Quasi-experimental designs | Monitoring & Evaluation
+  RCTs | Experimental designs | Monitoring & Evaluation
 
 - **Quantitative Analysis**  
   STATA | R | SurveyCTO | Python (basic) | Excel
@@ -27,22 +27,11 @@ I believe that **more evidence leads to a better quality of life**. My goal is t
 
 - **Languages**  
   Spanish (native) | English (professional proficiency)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Location | Role |
-|--------|-------------|----------|------|
-| **Kallpa Project** | RCT evaluating adolescent pregnancy prevention through mobile SRH counseling and school-based education | Ayacucho, Peru | Project Lead |
-| **CBDC & Financial Inclusion** | Research support for project on Central Bank Digital Currency and welfare impacts | Peru | Research Associate (Harvard, Northwestern & GRADE collaboration) |
-| **Education & SEL** | Impact evaluation of socioemotional learning programs in rural schools | Peru | Field Coordinator & Data Analyst |
-
 ---
 
 ## 📚 Academic Background
 
-- **B.A. in Economics** – [Your University], Peru  
+- **B.A. in Economics** – [Continental University], Peru  
   Relevant coursework: Impact Evaluation, Econometrics, Gender and Development
 
 ---
